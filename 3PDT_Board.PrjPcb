@@ -85,6 +85,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PEPJOETA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 3PDT_Board\Design Rule Check - 3PDT_Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
